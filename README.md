@@ -11,10 +11,6 @@ This command line program allows users to input specified numbers to run predete
 4. Run the program using the command `java HospitalQuery`.
 5. Input the specified numbers from the project description to get the output from the database.
 
-## Technologies Used
-
-- Java
-- MySQL
 
 ## Prerequisites
 
